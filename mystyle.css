@@ -1,0 +1,18 @@
+body {
+	background-color: #FF9933;
+	text-align: center;
+}
+
+h1 {
+	color: red;
+}
+
+p1 {
+	font-style: italic;
+	font-size: 16px;
+}
+
+p2 {
+	font-style: normal;
+	font-size: 12px;
+}
